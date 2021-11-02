@@ -11,7 +11,7 @@ This project was written for the purpose of image transformation.  The program a
 
 ##Example of execution
 
-![alt text](Photo/Screenshot_1.png)
+![alt text](CGLaba4/Photo/Screenshot_1.png)
 
 ##Technologies
 
